@@ -39,7 +39,7 @@ News
 
   <li>[05/2024] Conference paper at <a href="https://ieeexplore.ieee.org/abstract/document/10637052"> AIM 2024 </a> got accepted!</li> 
   <li>[09/2023] Start my Ph.D life at UCR.</li>
-  <li>[09/2021] Worked as a Research assistant at ROAR lab at Columbia University.</li>
+  <li>[06/2022] Worked as a Research assistant at ROAR lab at Columbia University.</li>
   <li>[09/2021] Start my Master's Degree life at Columbia University in the City of New York.</li>
 </ul>
 
