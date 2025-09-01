@@ -61,4 +61,4 @@ Career
 Services
 =====
 - Joined the Los Angeles Elite Lions Club as a voluteer and a formal member.
-- Gave a presentation on the current robotics development and its related technical background.
+- Gave a presentation on the current robotics development and its related technical background at Los Angeles Elite Lions Club on 07/26/2025.
