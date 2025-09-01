@@ -29,15 +29,15 @@ News
 
 <ul class="news-list">
 
-  <li>[05/2025] Conference paper: <a href="https://arxiv.org/abs/2409.17116"> at ICRA 2025 </a> is accepted!</li>
+  <li>[05/2025] Conference paper at <a href="https://arxiv.org/abs/2409.17116"> ICRA 2025 </a> is accepted!</li>
 
-  <li>[03/2025] Conference paper: <a href="https://arxiv.org/abs/2503.11855"> at ICORR 2025 got accepted. Rehabilitation week of robotics.</a></li>
+  <li>[03/2025] Conference paper at <a href="https://arxiv.org/abs/2503.11855"> ICORR 2025 </a> got accepted. Rehabilitation week of robotics.</li>
 
-  <li>[12/2024] Journal paper: <a href="https://www.cambridge.org/core/journals/robotica/article/design-of-a-traction-neck-brace-with-two-degreesoffreedom-via-a-novel-architecture-of-a-spatial-parallel-mechanism/70698E6DFEEA8C65EF0E9ACD3187D671"> at Robotica by Cambridge University Press</a> is accepted!</li>
+  <li>[12/2024] Journal paper at <a href="https://www.cambridge.org/core/journals/robotica/article/design-of-a-traction-neck-brace-with-two-degreesoffreedom-via-a-novel-architecture-of-a-spatial-parallel-mechanism/70698E6DFEEA8C65EF0E9ACD3187D671"> Robotica by Cambridge University Press</a> is accepted!</li>
 
-  <li>[08/2024] Journal paper: <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adrr.202500003"> at Advanced Robotics Research </a> is accepted!</li>
+  <li>[08/2024] Journal paper at <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adrr.202500003"> Advanced Robotics Research </a> is accepted!</li>
 
-  <li>[05/2024] Conference paper: <a href="https://ieeexplore.ieee.org/abstract/document/10637052"> at AIM 2024 got accepted!</a></li>
+  <li>[05/2024] Conference paper at <a href="https://ieeexplore.ieee.org/abstract/document/10637052"> AIM 2024 </a> got accepted!</li> 
   <li>[09/2023] Start my Ph.D life at UCR.</li>
   <li>[09/2021] Worked as a Research assistant at ROAR lab at Columbia University.</li>
   <li>[09/2021] Start my Master's Degree life at Columbia University in the City of New York.</li>
