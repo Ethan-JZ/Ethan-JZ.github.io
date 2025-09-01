@@ -47,31 +47,18 @@ News
 
 Education
 ======
-* Ph.D in Computer Science, Case Western Reserve University (CWRU), 2025-present
-* M.S. in Electrical and Computer Engineering, University of California, Riverside (UCR), 2023-2025
-* B.S. in Artificial Intelligence and Technology, Central South University (CSU), 2017-2021
+* Ph.D student in Electrical and Computer Engineering, University of California, Riverside (UCR) at University of California, Riverside, 2023-present
+* Master's degree in Mechanical Engineering, Columbia University in the City of New York, 2021-2022
+* Bachelor's degree in Mechanical Design, Manufacturing and Automation, Beijing Forestry University, 2016-2020
 
 
 Career
 ======
-* Java Development Engineer, 09/2022-09/2023
-  * Company: Yaoshi Bang Inc
-  * Duties includes: Supplemented the framework functions of Java projects, such as batch database function realization (e.g. the implementation of multiple data sources and batch operations under the MyBatis framework), unified operation of reading and writing excel files, file type verification, etc
+* Research Assistant, 06/2022-08/2023
+  * Company: ROAR lab at Columbia University
+  * Duties includes: Research on the Parallel Robot with its math model building, forward and inverse kinematics derivation, CAD model building and fabrication. Published paper based on this topic on Robotica (Cambridge University Press).
 
-
-Teaching
-======
-- Teaching Assistant, CSDS 447 – Responsible AI Engineering, Case Western Reserve University (Fall 2025)
-- Teaching Assistant, CSDS 340 – Machine Learning, Case Western Reserve University (Spring 2025)
-
-<!-- Services
-====== -->
-
-Honors and Awards
+Services
 =====
-- Outstanding Student of Central South University (2017-2019) 
-- First-class Scholarship (2017-2019) 
-- National-level Academic Scholarship (2017-2018) 
-- National Encouragement Scholarship (2018-2019)
-- The 9th “Huawei Cup” Chinese College Students Intelligent Design Competition: First Prize, 2019.
-- RoboCup China Competition: The Second Prize of Rescue Simulation Group, 2019.
+- Joined the Los Angeles Elite Lions Club as a voluteer and a formal member.
+- Gave a presentation on the current robotics development and its related technical background.
