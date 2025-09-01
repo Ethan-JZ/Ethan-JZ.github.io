@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I’m a PhD student in University where I am fortunately advised by Prof. [Xiaotian Han](https://ahxt.github.io/). Prior to that, I received my M.S. from [UCR](https://www.ece.ucr.edu/), and my B.S. from [Central South University](https://soa.csu.edu.cn/).
+I’m a PhD student in University of California, Riverside where I am fortunately advised by Prof. [Konstantinos Karydis](https://profiles.ucr.edu/app/home/profile/karydis). Prior to that, I received my Master's degree from [Columbia University in the City of New York](https://www.columbia.edu/), and worked as a Research Assistant at ROAR lab (https://roar.me.columbia.edu/) for more than a year. My Bachelor's degree is from [Beijing Forestry University](http://bjfu.admissions.cn/).
 
-<span style="color:red;">I am open to collaboration opportunities, including visiting Ph.D. positions, research internships, and academic exchange programs.</span>
+<span style="color:red;">I am open to research internships during summer time.</span>
 
 Research Interests
 ======
-* My research focuses on large language models (LLMs), with a particular emphasis on accelerating inference and enhancing their mathematical reasoning capabilities.
+* My research program advances the field of robotics and automation through an integrated approach. It encompasses the development of intelligent control systems via rigorous kinematic analysis, and optimization for the co-design of high-performance mechanical systems and their fabrication processes. I'm also learning RL(Reinforcement Learning) and hope this will be my future paper topic.
 
 
 <style>
@@ -28,14 +28,19 @@ News
 ======
 
 <ul class="news-list">
-  <li>[08/2025] Happy to be selected as a volunteer for COLM 2025!</li>
-  <li>[07/2025] Our paper <a href="https://arxiv.org/abs/2504.12329">Speculative Thinking</a> is accepted at COLM 2025!</li>
-  <li>[05/2025] Our paper <a href="https://arxiv.org/abs/2505.19293">100-LongBench</a> is accepted at ACL 2025 Findings!</li>
-  <li>[05/2025] <a href="https://arxiv.org/abs/2505.17315">Longer Context, Deeper Thinking</a> is now on arXiv</li>
-  <li>[02/2025] <a href="https://arxiv.org/abs/2504.12329">Speculative Thinking</a> is on arXiv</li>
-  <li>[02/2025] <a href="https://arxiv.org/abs/2502.13173">Thinking Preference Optimization</a> is on arXiv</li>
-  <li>[01/2025] Blog: <a href="https://uservan.github.io/posts/2025/01/Thinking_Preference_Optimization/">Thinking Preference Optimization</a></li>
-  <li>[01/2025] Start my Ph.D life at CWRU</li>
+
+  <li>[05/2025] Conference paper: <a href="https://arxiv.org/abs/2409.17116"> at ICRA 2025 </a> is accepted!</li>
+
+  <li>[03/2025] Conference paper: <a href="https://arxiv.org/abs/2503.11855"> at ICORR 2025 got accepted. Rehabilitation week of robotics.</a></li>
+
+  <li>[12/2024] Journal paper: <a href="https://www.cambridge.org/core/journals/robotica/article/design-of-a-traction-neck-brace-with-two-degreesoffreedom-via-a-novel-architecture-of-a-spatial-parallel-mechanism/70698E6DFEEA8C65EF0E9ACD3187D671"> at Robotica by Cambridge University Press</a> is accepted!</li>
+
+  <li>[08/2024] Journal paper: <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adrr.202500003"> at Advanced Robotics Research </a> is accepted!</li>
+
+  <li>[05/2024] Conference paper: <a href="https://ieeexplore.ieee.org/abstract/document/10637052"> at AIM 2024 got accepted!</a></li>
+  <li>[09/2023] Start my Ph.D life at UCR.</li>
+  <li>[09/2021] Worked as a Research assistant at ROAR lab at Columbia University.</li>
+  <li>[09/2021] Start my Master's Degree life at Columbia University in the City of New York.</li>
 </ul>
 
 ---
