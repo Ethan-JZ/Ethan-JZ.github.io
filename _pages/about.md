@@ -24,6 +24,24 @@ Research Interests
 .news-list::-webkit-scrollbar-thumb{background:#bbb;border-radius:4px}
 </style>
 
+Education
+======
+* Ph.D student in Electrical and Computer Engineering, University of California, Riverside (UCR) at University of California, Riverside, 2023-present
+* Master's degree in Mechanical Engineering, Columbia University in the City of New York, 2021-2022
+* Bachelor's degree in Mechanical Design, Manufacturing and Automation, Beijing Forestry University, 2016-2020
+
+
+Career
+======
+* Research Assistant, 06/2022-08/2023
+  * Workplace: ROAR lab at Columbia University
+  * Duties includes: Research on the Parallel Robot with its math model building, forward and inverse kinematics derivation, CAD model building and fabrication. Published paper based on this topic in Robotica (Cambridge University Press).
+
+Services
+=====
+- Joined the Los Angeles Elite Lions Club as a voluteer and a formal member.
+- Gave a presentation on the current robotics development and its related technical background at Los Angeles Elite Lions Club on 07/26/2025.
+
 News
 ======
 
@@ -44,21 +62,3 @@ News
 </ul>
 
 ---
-
-Education
-======
-* Ph.D student in Electrical and Computer Engineering, University of California, Riverside (UCR) at University of California, Riverside, 2023-present
-* Master's degree in Mechanical Engineering, Columbia University in the City of New York, 2021-2022
-* Bachelor's degree in Mechanical Design, Manufacturing and Automation, Beijing Forestry University, 2016-2020
-
-
-Career
-======
-* Research Assistant, 06/2022-08/2023
-  * Company: ROAR lab at Columbia University
-  * Duties includes: Research on the Parallel Robot with its math model building, forward and inverse kinematics derivation, CAD model building and fabrication. Published paper based on this topic on Robotica (Cambridge University Press).
-
-Services
-=====
-- Joined the Los Angeles Elite Lions Club as a voluteer and a formal member.
-- Gave a presentation on the current robotics development and its related technical background at Los Angeles Elite Lions Club on 07/26/2025.
