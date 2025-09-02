@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I’m a PhD student in University of California, Riverside where I am fortunately advised by Prof. [Konstantinos Karydis](https://profiles.ucr.edu/app/home/profile/karydis). Prior to that, I received my Master's degree from [Columbia University in the City of New York](https://www.columbia.edu/), and worked as a Research Assistant at [ROAR lab](https://roar.me.columbia.edu/) for more than a year. My Bachelor's degree is from [Beijing Forestry University](http://bjfu.admissions.cn/).
+I’m a PhD student in University of California, Riverside where I am fortunately advised by Prof. [Konstantinos Karydis](https://profiles.ucr.edu/app/home/profile/karydis). Prior to that, I received my Master's degree from [Columbia University in the City of New York](https://www.columbia.edu/), and worked as a Research Assistant at [ROAR lab](https://roar.me.columbia.edu/) under the lead of Prof. [Sunil K. Agrawal](https://roar.me.columbia.edu/people/sunil-k-agrawal) for more than a year. I got my Bachelor's degree at [Beijing Forestry University](http://bjfu.admissions.cn/).
 
 <span style="color:red;">I am open to research internships during summer time.</span>
 
 Research Interests
 ======
-* My research program advances the field of robotics and automation through an integrated approach. It encompasses the development of intelligent control systems via rigorous kinematic analysis, and optimization for the co-design of high-performance mechanical systems and their fabrication processes. I'm also learning RL(Reinforcement Learning) and hope this will be my future paper topic.
+* My research program advances the field of robotics and automation through an integrated approach. It encompasses the development of intelligent control systems via rigorous kinematic analysis, and optimization for the robotic system design their fabrication processes. I have worked with various types of robots including UAV, quadrupedal robots, and robotic arms. I'm also learning RL(Reinforcement Learning) and hope this will be my future paper topic.
 
 
 <style>
