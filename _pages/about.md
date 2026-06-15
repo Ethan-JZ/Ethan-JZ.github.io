@@ -37,10 +37,10 @@ Career
   * Workplace: ROAR lab at Columbia University
   * Duties includes: Research on the Parallel Robot with its math model building, forward and inverse kinematics derivation, CAD model building and fabrication. Published paper based on this topic in Robotica (Cambridge University Press).
 
-Services
+<!-- Services
 =====
 - Joined the Los Angeles Elite Lions Club as a volunteer and a formal member.
-- Gave a presentation on the current robotics development and its related technical background at Los Angeles Elite Lions Club on 07/26/2025.
+- Gave a presentation on the current robotics development and its related technical background at Los Angeles Elite Lions Club on 07/26/2025. -->
 
 News
 ======
