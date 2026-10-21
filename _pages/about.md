@@ -15,7 +15,7 @@ I’m a PhD student in University of California, Riverside where I am fortunatel
 
 Research Interests
 ======
-* My research program advances the field of robotics and automation through an integrated approach. It encompasses the development of intelligent control systems via rigorous kinematic analysis, and optimization for the robotic system design their fabrication processes. I have worked with various types of robots including UAV, quadrupedal robots, and robotic arms. I'm also learning RL(Reinforcement Learning) and hope this will be my future paper topic.
+* My research program advances the field of robotics and automation through an integrated approach. It encompasses the development of intelligent control systems via rigorous kinematic analysis, and optimization methods for the robotic system design. I have worked with various types of robots including UAV, quadrupedal robots, and robotic arms. I'm also learning RL(Reinforcement Learning) and hope this will be my future paper topic.
 
 
 <style>
