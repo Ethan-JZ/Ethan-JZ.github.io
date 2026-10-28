@@ -5,7 +5,7 @@ tags:
   - robotic gripper
   - manipulation
 ---
-<video controls playsinline preload="metadata" style="width: 100%;">
+<video controls playsinline preload="metadata" style="width: 70%;">
   <source src="/images/videos/avocado-gripper.mp4" type="video/mp4">
 </video>
 
